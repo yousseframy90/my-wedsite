@@ -1,2 +1,4 @@
-# my-wedsite
+# my-website
 my gallary
+
+## notes:
